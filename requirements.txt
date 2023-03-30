@@ -1,0 +1,10 @@
+numpy==1.24.2
+streamlit==1.20.0
+streamlit_option_menu==0.3.2
+pickle-mixin==1.0.2
+scikit-learn==1.0.1
+nunpy==1.21.4
+matplotlib==3.7.1
+seaborn==0.12.2
+
+
