@@ -32,3 +32,6 @@
 <li>XGBoost – This contains the eXtreme Gradient Boosting machine learning algorithm which is one of the algorithms which helps us to achieve high accuracy on predictions.</li>
 
 ![Cor](https://user-images.githubusercontent.com/92047366/232584948-2cd95251-4162-4203-a9a8-f177a08aa078.png)
+
+![AgevsCharges](https://user-images.githubusercontent.com/92047366/232585167-1a1a0885-4111-46bb-a2ed-fa178a73c5ad.png)
+
