@@ -1,4 +1,8 @@
 # Medical-Insurance-Cost-Prediction
+
+![doc](https://user-images.githubusercontent.com/92047366/232584759-92a1589c-2e8f-4023-be87-97df53b46980.gif)
+
+
 <p>Machine Learning with R by Brett Lantz is a book that provides an introduction to machine learning using R. As far as I can tell, Packt Publishing does not make its datasets available online unless you buy the book and create a user account which can be a problem if you are checking the book out from the library or borrowing the book from a friend. All of these datasets are in the public domain but simply needed some cleaning up and recoding to match the format in the book.</p>
 
 <h2>Columns</h2>
@@ -26,3 +30,5 @@
 <li>Matplotlib/Seaborn – This library is used to draw visualizations.</li>
 <li>Sklearn – This module contains multiple libraries having pre-implemented functions to perform tasks from data preprocessing to model development and evaluation.</li>
 <li>XGBoost – This contains the eXtreme Gradient Boosting machine learning algorithm which is one of the algorithms which helps us to achieve high accuracy on predictions.</li>
+
+![Cor](https://user-images.githubusercontent.com/92047366/232584948-2cd95251-4162-4203-a9a8-f177a08aa078.png)
